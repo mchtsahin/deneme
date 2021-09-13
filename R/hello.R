@@ -14,5 +14,5 @@
 #   Test Package:              'Cmd + Shift + T'
 
 hello <- function() {
-  print("Hello, world naber lan !")
+  print("Hello, world naber lan ! Cahit nerdesen ?")
 }
